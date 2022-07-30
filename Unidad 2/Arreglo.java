@@ -62,6 +62,8 @@ public class Arreglo {
          * luego de haberlo declarado. Sin embargo, es posible
          * "re-declararlo" y cambiarle el tamaño. Esto reescribirá
          * cualquier valor anterior que tenga este arreglo.
+         * 
+         * Para determinar el largo de un arreglo se usa length (sin parentesis)
          */
         System.out.println("Tamaño del arreglo antes de 'redeclararlo' -> " + palabras.length);
         palabras = new String[4];
