@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * 
  */
-public class integrarPolinomio {
+public class IntegrarPolinomio {
     public static void main(String[] args) {
         /**
          * Esta variable permite habilitar el acceso

@@ -6,4 +6,4 @@
    2. [Variables](./unidadDos/Variable.java)
    4. [Arreglos](./unidadDos/Arreglo.java)
    5. [Manipulación de cadenas](./unidadDos/Cadena.java)
-   6. [Ejemplos](./unidadDos/Ejemplos)
+   6. [Ejemplos](./unidadDos/ejemplo/sesionDos)

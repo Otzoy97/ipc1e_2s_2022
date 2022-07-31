@@ -26,7 +26,12 @@ public class DecimalABinario {
          * Convierte la entrada del usuario (que es una cadena)
          * a un numero entero
          */
-        int numeroBaseDiez = Integer.parseInt(entradaDeUsuario);
+        int numeroBaseDiez = 0;
+        try {
+            numeroBaseDiez = Integer.parseInt(entradaDeUsuario);
+        } catch (Exception ex){
+            System.out.println("El valor ingresado no es numero");
+        }
         /**
          * Declaración de una variable de tipo entero 
          * que servirá para mantener un copia temporal
@@ -42,6 +47,7 @@ public class DecimalABinario {
          * Divide cociente hasta que sea 0
          */
         while(cociente != 0) {
+            boolean valorBooleano = cociente != 0;
             /**
              * Recupera el residuo de dividir cociente entre 2
              * y concatena el resultado al inicio de la variable
@@ -53,6 +59,7 @@ public class DecimalABinario {
              */
             cociente = cociente / 2;
         }
+        boolean valorBooleano = cociente != 0;
         /**
          * Imprime en consola el resultado
          */

@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Deriva
  */
-public class derivarPolinomio {
+public class DerivarPolinomio {
     public static void main(String[] args) {
         /**
          * Esta variable permite habilitar el acceso
