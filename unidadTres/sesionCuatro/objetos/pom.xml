@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>edu.usac.ipc1</groupId>
-  <artifactId>proyecto1</artifactId>
+  <artifactId>objetos</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>proyecto1</name>
+  <name>objetos</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
