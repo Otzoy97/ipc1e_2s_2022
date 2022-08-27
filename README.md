@@ -10,4 +10,6 @@
    7. [Recursion](./unidadDos/Recursion.java)
 
 2. Programación orientada objetos
-   1. [Swing/Awt](./unidadTres/proyecto1/)
+   1. [Swing/Awt](./unidadTres/sesionCuatro/objetos/)
+   2. [Propiedades POO](./unidadTres/sesionCinco/pooproperties/)
+   3. [Manejo de memoria](./unidadTres/sesionSeis/)
