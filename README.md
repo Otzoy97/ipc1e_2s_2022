@@ -18,4 +18,14 @@
    5. [Ejemplo 3](./unidadTres/sesionSeis/asignacion/)
 
 3. Hilos
-   1. [Ejemplo 4](./unidadSeis/carrera/)
+   1. [Manejo de hilos](./unidadSeis/sesionNueve/)
+   2. [Ejemplo 4](./unidadSeis/carrera/)
+
+4. Archivos
+   1. [Manejo de archivos](./unidadCinco/sesionNueve)
+
+5. Python
+   1. [Python](./unidadSiete/sesionDiez)
+
+6. Cloud Computing
+   1. 
