@@ -16,15 +16,16 @@
    3. [Manejo de memoria](./unidadTres/sesionSeis/memorymanagment/)
    4. [Manejo de excepciones](./unidadTres/sesionSeis/exceptionhandling/)
    5. [Ejemplo 3](./unidadTres/sesionSeis/asignacion/)
+   6. [Ejemplo 4](./unidadTres/sesionSiete/inventario/)
 
 3. Hilos
-   1. [Ejemplo 4](./unidadSeis/carrera/)
+   1. [Ejemplo 5](./unidadSeis/carrera/)  
 
 4. Archivos
-   2. [Ejemplo 5](./unidadCinco/archivo)
+   1. [Ejemplo 6](./unidadCinco/archivo)  
 
 5. Python
-   1. [Python](./unidadSiete/sesionDiez)
+   1. [Python](./unidadSiete/sesionDiez)  
 
-6. Cloud Computing
-   1. 
+6. Cloud Computing  
+   1.  
