@@ -20,6 +20,7 @@
 
 3. Hilos
    1. [Ejemplo 5](./unidadSeis/carrera/)  
+   2. [Práctica 2 resuelta](./unidadSeis/practicaDos/)
 
 4. Archivos
    1. [Ejemplo 6](./unidadCinco/archivo)  
@@ -28,4 +29,4 @@
    1. [Python](./unidadSiete/sesionDiez)  
 
 6. Cloud Computing  
-   1.  
+   1.  TBD
