@@ -29,4 +29,5 @@
    1. [Python](./unidadSiete/sesionDiez)  
 
 6. Cloud Computing  
-   1. [API bancaria](./unidadSiete/sesionOnce/ejemplo12/)
+   1. [API bancaria](./unidadSiete/sesionOnce/api_banco/)
+   2. [API biblioteca](./unidadSiete/sesionDoce/api_biblioteca/)
