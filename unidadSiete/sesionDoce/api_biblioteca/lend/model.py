@@ -10,7 +10,7 @@ class Lend():
         self.uuid = uuid4()
         self.person = person
         self.book = book
-        self.lent = datetime.now
+        self.lent = datetime.now()
         self.returned = None
 
 class LendSchema(Schema):
