@@ -1,0 +1,2 @@
+productos = []
+operaciones = []
