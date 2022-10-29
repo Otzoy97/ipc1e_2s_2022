@@ -6,5 +6,3 @@
 Documentación postman
 
 https://documenter.getpostman.com/view/11718503/2s8YK7okPW   
-
-Aquí hay un cambio  
